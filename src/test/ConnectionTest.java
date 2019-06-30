@@ -5,6 +5,10 @@ public class ConnectionTest {
 		System.out.println("Hello!");
 		System.out.println("Got connected!");
 		System.out.println("Got connected!");
+		System.out.println("Got connected!");
+		System.out.println("Got connected!");
+		System.out.println("Got connected!");
+
 		
 	}
 }

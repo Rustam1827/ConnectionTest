@@ -8,6 +8,8 @@ public class ConnectionTest {
 		System.out.println("Got connected!");
 		System.out.println("Got connected!");
 		System.out.println("Got connected!");
+		System.out.println("Changes");
+		System.out.println("Changes");
 
 		
 	}
